@@ -2,10 +2,10 @@
 
 using namespace std;
 int main(){
-    int a = 2;
+    int a = 6;
     double sum = 0;
 
-    while(a<=69){
+    while(a<=19){
         sum = 1.0/a + sum;
         a++;
     }
